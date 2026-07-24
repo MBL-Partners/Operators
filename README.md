@@ -18,6 +18,9 @@ Free, installable Cowork skills built by the MBL Partners team. Each one ships a
 | Skill | Lane | What it does | Download |
 |---|---|---|---|
 | [weekly-recap](weekly-recap/) | Operator | Scores your week across Output, Focus, Investment, and Completion; surfaces patterns; gives 1-3 behavior changes. | [download](weekly-recap/weekly-recap.skill) |
+| [kpi-dashboard](kpi-dashboard/) | Operator | Self-updating KPI page with plain-language commentary on what moved and why -- not just charts that redraw. | [download](kpi-dashboard/kpi-dashboard.skill) |
+| [meeting-os](meeting-os/) | Operator | Builds a tight agenda before any meeting and a follow-up email plus clean action list after it. Drafts only -- never sends. | [download](meeting-os/meeting-os.skill) |
+| [due-diligence](due-diligence/) | Operator | Private equity diligence planner: sets up the complete workplan, organizes evidence across 26 sections, identifies gaps, and produces IC-oriented output. | [download](due-diligence/due-diligence.skill) |
 | [ai-readiness-diagnostic](ai-readiness-diagnostic/) | Leadership | Six-dimension scored read of your team's AI readiness, with gaps and next steps. | [download](ai-readiness-diagnostic/ai-readiness-diagnostic.skill) |
 
 More skills ship with each post.
